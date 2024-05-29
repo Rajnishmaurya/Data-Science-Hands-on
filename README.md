@@ -1,2 +1,2 @@
 # ML-
-Breast Cancer Detection Using Machine Learnig
+Machine Learning practice
